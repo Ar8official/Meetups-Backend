@@ -1,8 +1,8 @@
-DJ Events (Strapi Backend)
+Meetups (Backend)
 
-> Strapi backend for the DJ Events website. This is part of my Next.js course on Udemy
+> backend for the [meetups](https://meetups-nine.vercel.app/) website. 
 
-The Next.js frontend can be found [here](https://github.com/bradtraversy/dj-events-frontend)
+The Next.js frontend can be found [here](https://github.com/Ar8official/Meetups)
 
 # Usage
 
@@ -24,4 +24,4 @@ npm run develop
 yarn develop
 ```
 
-Open [http://localhost:1337/admin](http://localhost:1337/admin) to access the CMS
+Open [http://localhost:1337/admin](http://localhost:1337/admin) to access the CMS Backend
